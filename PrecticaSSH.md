@@ -7,5 +7,5 @@ Y para editarlo
 - sudo cp /etc/sshd_config{,.back}
 
 ## Instalacion Apàche 
-(*linkear mi codigo...)[https://github.com/PauMadu/Tema-3/blob/main/MemoriasApache.md]
+[https://github.com/PauMadu/Tema-3/blob/main/MemoriasApache.md]
 
