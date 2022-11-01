@@ -1,6 +1,4 @@
 
-
-
 -sudo cp /etc/sshd_config{,.back}
 Y para editarlo 
 - sudo gedit /etc/sshd_config
