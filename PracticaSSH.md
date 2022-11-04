@@ -16,7 +16,7 @@ Y para editarlo
 ## En el Cliente: 
 
 ### Para entrar dentro del otro ordenador: 
-- $ ssh ejercicio@192.135.0.0
+- $ ssh ejercicio@192.135.0.XXX
 
 ### Instalacion Apache en el servidor:  
 [Paso a paso de como Instalar Apache.](https://github.com/PauMadu/Tema-3/blob/main/MemoriasApache.md)
