@@ -2,16 +2,30 @@
 
 ### Crea un usuario nuevo:
 
+$ sudo useradd nombreUsuario
 
 ### Activa servidor SSH: 
 
--sudo cp /etc/sshd_config{,.back}
-Y para editarlo 
-- sudo gedit /etc/sshd_config
+$ sudo systemctl start ssh
+
+$ sudo cp /etc/sshd_config{,.back}
+> Y para editarlo si hace falta
+> $ sudo nano /etc/sshd_config
+> - Port 22
+> - HostKey /etc/ssh/ssh_host_rsa_key
+  HostKey /etc/ssh/ssh_host_dsa_key
+  HostKey /etc/ssh/ssh_host_ecdsa_key
+- SyslogFacility AUTH
+  LogLevel INFO
+- LoginGraceTime 120
+  PermitRootLogin yes
+  StrictModes yes
+  
+$ sudo systemctl reload ssh
 
 ### Busca la ip del ordenador:
 
-
+$ ifconfig (inet 192.168.0.XXX)
 
 ## En el Cliente: 
 
