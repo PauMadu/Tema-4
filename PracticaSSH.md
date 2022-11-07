@@ -7,6 +7,7 @@ $ sudo useradd nombreUsuario
 ### Activa servidor SSH: 
 
 $ sudo systemctl start ssh
+$ sudo ufw allow 22
 
 $ sudo cp /etc/sshd_config{,.back}  
 > Y para editarlo si hace falta  
