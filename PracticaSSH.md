@@ -10,7 +10,7 @@ $ sudo systemctl start ssh
 $ sudo ufw allow 22
 
 $ sudo cp /etc/sshd_config{,.back}  
-> Y para editarlo si hace falta  
+Y para editarlo si hace falta  
 > $ sudo nano /etc/sshd_config  
 > - Port 22  
 > - HostKey /etc/ssh/ssh_host_rsa_key  
