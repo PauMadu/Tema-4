@@ -91,8 +91,8 @@ Guardamos y cerramos.
 
 ### Modifica los host del local para que con la dirección elegida vaya a la ip del servidor: 
 
-
-
+```sudo gedit /etc/hosts```
+Donde se nos habrirá un Gedit y deberemos modificar lo siguiente.
 
 ### Comprueba que puedes conectarte a la página: 
 
