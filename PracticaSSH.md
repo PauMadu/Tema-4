@@ -94,7 +94,6 @@ Guardamos y cerramos.
 ```sudo gedit /etc/hosts```
 Donde se nos habrirá un Gedit y deberemos modificar lo siguiente.  
 ![Modificación](https://github.com/PauMadu/Tema-4/blob/main/hosts.png)
-
 ### Comprueba que puedes conectarte a la página:  
 !!Aqui la Comprobacion!!  
 ![Comprobación](https://github.com/PauMadu/Tema-4/blob/main/Comprobacion.png)
@@ -106,5 +105,5 @@ Al igual que en el cliente, pero ahora tambien tendremos que cambiar...
 ![]()
 
 !!Aqui la Comprobacion!!  
-![Comprobación](https://github.com/PauMadu/Tema-4/blob/main/Servidor.png)
+![Comprobación](https://github.com/PauMadu/Tema-4/blob/main/hosts%20Server.png)
 
