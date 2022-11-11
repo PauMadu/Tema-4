@@ -95,5 +95,5 @@ Guardamos y cerramos.
 Donde se nos habrirá un Gedit y deberemos modificar lo siguiente.
 
 ### Comprueba que puedes conectarte a la página: 
-
+![Comprobacion](https://github.com/PauMadu/Tema-4/blob/main/Comprobacion.png)
 ### Abre en el servidor un browser a la página: 
