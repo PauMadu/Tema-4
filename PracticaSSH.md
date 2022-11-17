@@ -112,5 +112,3 @@ Al igual que en el cliente, pero ahora tambien tendremos que cambiar...
 
 !!Aqui la Comprobacion!!  
 ![Comprobación](https://github.com/PauMadu/Tema-4/blob/main/hosts%20Server.png)
-
-hola
